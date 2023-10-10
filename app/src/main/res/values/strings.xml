@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="Toast_button">Toast</string>
+    <string name="text_message"></string>
+    <string name="Random_button">Random</string>
+    <string name="count_button">Count</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="random_text"></string>
+    <string name="previous_button">Previous</string>
+
+</resources>
